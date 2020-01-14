@@ -1,0 +1,265 @@
+[{
+	"Team1": "Angers",
+	"Team2": "Caen",
+	"Result": 0
+}, {
+	"Team1": "Angers",
+	"Team2": "Guingamp",
+	"Result": 1
+}, {
+	"Team1": "Angers",
+	"Team2": "Lille",
+	"Result": 1
+}, {
+	"Team1": "Angers",
+	"Team2": "Lyon",
+	"Result": -1
+}, {
+	"Team1": "Angers",
+	"Team2": "Marseille",
+	"Result": 0
+}, {
+	"Team1": "Angers",
+	"Team2": "Montpellier",
+	"Result": 1
+}, {
+	"Team1": "Angers",
+	"Team2": "Nantes",
+	"Result": 0
+}, {
+	"Team1": "Angers",
+	"Team2": "Nice",
+	"Result": 0
+}, {
+	"Team1": "Angers",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Angers",
+	"Team2": "Rennes",
+	"Result": -1
+},{
+	"Team1": "Angers",
+	"Team2": "Saint-Etiennes",
+	"Result": -1
+}, {
+	"Team1": "Caen",
+	"Team2": "Guingamp",
+	"Result": 0
+}, {
+	"Team1": "Caen",
+	"Team2": "Lille",
+	"Result": -1
+}, {
+	"Team1": "Caen",
+	"Team2": "Lyon",
+	"Result": 0
+}, {
+	"Team1": "Caen",
+	"Team2": "Marseille",
+	"Result": -1
+}, {
+	"Team1": "Caen",
+	"Team2": "Montpellier",
+	"Result": 0
+}, {
+	"Team1": "Caen",
+	"Team2": "Nantes",
+	"Result": 0
+}, {
+	"Team1": "Caen",
+	"Team2": "Nice",
+	"Result": 0
+}, {
+	"Team1": "Caen",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Caen",
+	"Team2": "Rennes",
+	"Result": -1
+}, {
+	"Team1": "Caen",
+	"Team2": "Saint-Etiennes",
+	"Result": -1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Lille",
+	"Result": -1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Lyon",
+	"Result": -1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Marseille",
+	"Result": -1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Montpellier",
+	"Result": 0
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Nantes",
+	"Result": -1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Nice",
+	"Result": 0
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Rennes",
+	"Result": 1
+}, {
+	"Team1": "Guingamp",
+	"Team2": "Saint-Etiennes",
+	"Result": -1
+}, {
+	"Team1": "Lille",
+	"Team2": "Lyon",
+	"Result": 0
+}, {
+	"Team1": "Lille",
+	"Team2": "Marseille",
+	"Result": 1
+}, {
+	"Team1": "Lille",
+	"Team2": "Montpellier",
+	"Result": 1
+}, {
+	"Team1": "Lille",
+	"Team2": "Nantes",
+	"Result": 1
+}, {
+	"Team1": "Lille",
+	"Team2": "Nice",
+	"Result": 1
+}, {
+	"Team1": "Lille",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Lille",
+	"Team2": "Rennes",
+	"Result": 1
+}, {
+	"Team1": "Lille",
+	"Team2": "Saint-Etiennes",
+	"Result": 1
+}, {
+	"Team1": "Lyon",
+	"Team2": "Marseille",
+	"Result": 1
+}, {
+	"Team1": "Lyon",
+	"Team2": "Montpellier",
+	"Result": 0
+}, {
+	"Team1": "Lyon",
+	"Team2": "Nantes",
+	"Result": 0
+}, {
+	"Team1": "Lyon",
+	"Team2": "Nice",
+	"Result": 1
+}, {
+	"Team1": "Lyon",
+	"Team2": "Paris",
+	"Result": 1
+}, {
+	"Team1": "Lyon",
+	"Team2": "Rennes",
+	"Result": -1
+}, {
+	"Team1": "Lyon",
+	"Team2": "Saint-Etiennes",
+	"Result": 1
+}, {
+	"Team1": "Marseille",
+	"Team2": "Montpellier",
+	"Result": -1
+}, {
+	"Team1": "Marseille",
+	"Team2": "Nantes",
+	"Result": -1
+}, {
+	"Team1": "Marseille",
+	"Team2": "Nice",
+	"Result": 1
+}, {
+	"Team1": "Marseille",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Marseille",
+	"Team2": "Rennes",
+	"Result": 0
+}, {
+	"Team1": "Marseille",
+	"Team2": "Saint-Etiennes",
+	"Result": -1
+}, {
+	"Team1": "Montpellier",
+	"Team2": "Nantes",
+	"Result": -1
+}, {
+	"Team1": "Montpellier",
+	"Team2": "Nice",
+	"Result": 1
+}, {
+	"Team1": "Montpellier",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Montpellier",
+	"Team2": "Rennes",
+	"Result": 0
+}, {
+	"Team1": "Montpellier",
+	"Team2": "Saint-Etiennes",
+	"Result": 0
+}, {
+	"Team1": "Nantes",
+	"Team2": "Nice",
+	"Result": -1
+}, {
+	"Team1": "Nantes",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Nantes",
+	"Team2": "Rennes",
+	"Result": 0
+}, {
+	"Team1": "Nantes",
+	"Team2": "Saint-Etiennes",
+	"Result": 0
+	}, {
+	"Team1": "Nice",
+	"Team2": "Paris",
+	"Result": -1
+}, {
+	"Team1": "Nice",
+	"Team2": "Rennes",
+	"Result": 1
+}, {
+	"Team1": "Nice",
+	"Team2": "Saint-Etiennes",
+	"Result": 0
+}, {
+	"Team1": "Paris",
+	"Team2": "Rennes",
+	"Result": 1
+}, {
+	"Team1": "Paris",
+	"Team2": "Saint-Etiennes",
+	"Result": 1
+}, {
+	"Team1": "Rennes",
+	"Team2": "Saint-Etiennes",
+	"Result": 0
+}]
